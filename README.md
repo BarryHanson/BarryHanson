@@ -75,7 +75,19 @@ I particularly enjoy projects that combine **software development with infrastru
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
+
+### 🔐 ByteLock — Password Manager & Secure Vault
+
+> **My primary project and ongoing passion project.** ByteLock is a full-stack password manager and encrypted secret vault built around a vault-first security model. Sensitive data is encrypted client-side before reaching the server, with support for secure credential storage, browser autofill, two-factor authentication, secure sharing, file storage, subscription management, and privacy monitoring.
+>
+> The project includes a **Manifest V3 browser extension** for detecting login fields, saving credentials, and securely autofilling accounts while following the same encryption model as the main application.
+
+`Next.js` `React` `TypeScript` `PostgreSQL` `Prisma` `AES-GCM` `PBKDF2` `Web Crypto API` `Docker`
+
+[View Repository](https://github.com/BarryHanson/LockBox) • [Visit ByteLock](https://bytelock.tech)
+
+---
 
 ### 🎮 ValSkins — VALORANT Shop & Tracking Discord Bot
 
@@ -85,19 +97,13 @@ I particularly enjoy projects that combine **software development with infrastru
 
 [View Repository](https://github.com/BarryHanson/ValSkins)
 
-### 🖥️ Project Name
+---
 
-> Short description of another project you're proud of and what problem it solves.
+### 🖥️ Echo Auth
+
+> Coming soon
 
 `Linux` `Docker` `Node.js`
-
-[View Repository](#)
-
-### 🌐 Project Name
-
-> A third project demonstrating another area of your development experience.
-
-`Next.js` `TypeScript` `PostgreSQL`
 
 [View Repository](#)
 
