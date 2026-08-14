@@ -77,13 +77,13 @@ I particularly enjoy projects that combine **software development with infrastru
 
 ## 📌 Featured Projects
 
-### 🔐 Project Name
+### 🎮 ValSkins — VALORANT Shop & Tracking Discord Bot
 
-> Short description explaining what the project does and the technologies behind it.
+> A feature-rich Discord bot for tracking VALORANT shop data, built with account switching, customizable skin alerts, automated daily shop posts, shop appearance statistics, player match statistics, player account statistics, localization, and scalable sharding and queue systems.
 
-`C#` `React` `PostgreSQL`
+`JavaScript` `Node.js` `Discord.js` `Docker` `REST APIs`
 
-[View Repository](#)
+[View Repository](https://github.com/BarryHanson/ValSkins)
 
 ### 🖥️ Project Name
 
